@@ -1,5 +1,5 @@
-@echo Installing wrapper online
+@echo Installing Wrapper Online 7.0.1a
 npm install
-@echo Starting wrapper online
+@echo Starting Wrapper Provider Complete
 npm start
 pause
